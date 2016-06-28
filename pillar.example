@@ -1,0 +1,5 @@
+certbot:
+  server_name: westwing.com.br
+  webroot: /var/www/html
+  email: admin@westwing.com.br
+  test: False
